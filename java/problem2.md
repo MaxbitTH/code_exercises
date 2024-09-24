@@ -10,7 +10,7 @@
 
 3. **API Gateway:** Set up an API Gateway using Spring Cloud Gateway to route requests to the appropriate microservice.
 
-4. **Database Integration:** Each microservice should have its own database. Use Spring Data JPA for database operations.
+4. **Database Integration:** Each microservice should have its own database. Use Liquibase and Spring Data JPA for database operations.
 
 5. **Security:** Implement authentication and authorization using Spring Security and JWT. Ensure secure communication between microservices.
 
